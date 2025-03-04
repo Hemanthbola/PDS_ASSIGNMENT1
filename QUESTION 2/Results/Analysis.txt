@@ -1,0 +1,16 @@
+Visualizations:
+
+Histogram: Displays the distribution of average test scores with a KDE (Kernel Density Estimate) overlay.
+Box Plot: Compares average test scores by gender to highlight score distribution and potential differences.
+Bar Chart: Examines the relationship between parental education level and students' average scores.
+Scatter Plot: Shows the correlation between math and reading scores, indicating potential trends.
+Pie Chart: Illustrates the proportion of students by gender, providing demographic insights.
+Heatmap: Uses Seaborn to display a correlation matrix, identifying relationships between different score variables.
+
+Insights:
+
+The histogram likely shows whether scores are normally distributed or skewed.
+The box plot may reveal whether one gender outperforms the other.
+The bar chart can help understand if parental education affects student performance.
+The scatter plot highlights correlations between subjects.
+The heatmap provides a broad overview of inter-variable relationships.
